@@ -3,5 +3,6 @@
 * Various cool GitHub features
 * Jokes
 * Squirrels
+* Cats
 * American slang
 
